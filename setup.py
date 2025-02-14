@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Copyright (c) 2012 by Pablo Martín <goinnn@gmail.com>
 #
@@ -31,7 +32,7 @@ def read(*rnames):
 
 
 setup(
-    name="django-multiselectfield",
+    name="elements-django-multiselectfield",
     version="0.1.13",
     author="Pablo Martin",
     author_email="goinnn@gmail.com",
